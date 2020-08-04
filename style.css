@@ -2,6 +2,30 @@ body {
     background-color: lightgray;
 }
 
+h1, h2, h3 {
+    color: lightseagreen;
+    font-weight: bold;
+    text-align: center;
+ }
+
+a:hover {
+    color: white;
+}
+
+ /* classes */
+.navbar {
+    background-color: white;
+}
+
+.nav-brand {
+    color: white;
+    background-color: lightseagreen;
+}
+
+/* .navbar-expand-lg {
+    background-color: lightseagreen;
+} */
+
 .box {
     background-color: white;
     position: relative;
@@ -21,12 +45,6 @@ body {
     left: 40px;
     padding: 10%;
 }
-
-h1, h2, h3 {
-    color: lightseagreen;
-    font-weight: bold;
-    text-align: center;
- }
 
 .img-sm {
     width: 300px;
