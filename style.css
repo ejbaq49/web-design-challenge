@@ -89,3 +89,25 @@ a:hover {
 .img-selected {
     border: 4px solid lightseagreen;
 }
+
+@media (max-width: 800px) {
+    body {
+        background-color: white;
+    }
+
+    .navbar {
+        background-color: lightseagreen;
+    }
+
+    .box-1 {
+        height: 425px;
+        width: 600px;
+        left: -100px;
+        padding: 10%;
+    }
+
+    .box-2 {
+        position: absolute;
+        top: 95px
+    }
+}
