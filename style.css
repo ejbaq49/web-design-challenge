@@ -46,6 +46,13 @@ a:hover {
     padding: 10%
 }
 
+.box-1c {
+    height: 900px;
+    width: 1200px;
+    left: -75px;
+    padding: 5%;
+}
+
 .box-2 {
     height: 375px;
     width: 450px;
@@ -64,6 +71,10 @@ a:hover {
 
 .img-med {
     width: 625px;
+}
+
+.img-cmp {
+    width: 525px
 }
 
 .img-selected {
