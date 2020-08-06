@@ -53,6 +53,15 @@ a:hover {
     padding: 5%;
 }
 
+.box-1d {
+    height: 1000px;
+    width: 1200px;
+    left: -75px;
+    padding: 5%;
+    overflow: scroll;
+}
+
+
 .box-2 {
     height: 375px;
     width: 450px;
